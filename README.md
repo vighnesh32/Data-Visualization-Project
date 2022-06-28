@@ -5,4 +5,4 @@
 
 #### Sequence of running the codes :
 
-1. Open and run the Project.md file.Try to run it on VScode. For dataset please refer dvdatasets repository.
+1. Open and run the Project.md file. Try to run it on VScode. For dataset please refer dvdatasets repository.
