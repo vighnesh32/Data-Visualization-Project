@@ -1,2 +1,8 @@
 # Data-Visualization-Project
-Check the Project.md file for program and report. Try to run it on VScode. The programming language used to create this project is ELM. For dataset please refer dvdatasets repository.
+#### File Name and Description :
+1. Dataprocessing.ipynb - The dataset is cleaned and altered. Also the dataset is divided into many dataset in this file.
+2. Project.md - This file contains the code for three visualizations of the data in elm language. Also it have the report.
+
+#### Sequence of running the codes :
+
+1. Open and run the Project.md file.Try to run it on VScode. For dataset please refer dvdatasets repository.
